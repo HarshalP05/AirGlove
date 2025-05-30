@@ -68,7 +68,7 @@ Ensure all dependencies are installed via the Arduino Library Manager or as ZIP 
 
 ## 🧪 Sample Usage
 
-Check out the sample sketch provided in `exardespre.ino` for how to instantiate and use the `AirGlove` class:
+Check out the sample sketch provided in `AirGlove.ino` for how to instantiate and use the `AirGlove` class:
 
 ```cpp
 #include "AirGlove.h"
@@ -92,7 +92,7 @@ void loop() {
 }
 ```
 
----
+
 
 ## 🚀 Future Scope
 
@@ -102,19 +102,6 @@ Air Glove is a platform with immense potential:
 - Expansion into **gaming** as a motion controller.
 - **Custom modes** and app integrations (e.g., music control, smart TV navigation).
 
----
-
-## 📷 Image Placement
-
-Place the images used above (`airglove1.jpg`, `airglove2.jpg`) in an `images/` folder within your repository. You can capture photos of your actual Air Glove setup and use those in place.
-
----
-
-## 🛠️ License
-
-MIT License 
-
----
 
 ## 🙌 Contributions
 
